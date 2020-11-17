@@ -50,6 +50,6 @@ export default {
     text-align: center;
   }
   .arrow-icon{
-    font-size: .24rem;
+    font-size: .26rem;
   }
 </style>
